@@ -1,0 +1,9 @@
+:root {
+    --color-text: #fdfdfd;
+    --color-primary: #e05175;
+    --color-secondary: #f1c6d2;
+    --color-dark: #cbadb5;
+    --color-bg: rgb(116, 136, 205);
+
+    --font-robot: "Roboto";
+}

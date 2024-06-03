@@ -1,0 +1,60 @@
+[
+   
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+
+    {
+      "title": "Express",
+      "imageSrc": "skills/express.png"
+   },
+
+    {
+      "title": "Django",
+      "imageSrc": "skills/django.png"
+    },
+
+
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    }, 
+
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+
+    {
+      "title": "PHP",
+      "imageSrc": "skills/php.png"
+    },
+    {
+      "title": "MySQL",
+      "imageSrc": "skills/mysql.png"
+    },
+    {
+      "title": "SQLite",
+      "imageSrc": "skills/sqlite.jpeg"
+    },
+    {
+      "title": "Pandas",
+      "imageSrc": "skills/pandas.png"
+    },
+    {
+      "title": "Scikit-learn",
+      "imageSrc": "skills/scikit.png"
+    },
+    {
+      "title": "Jupyter",
+      "imageSrc": "skills/jupyter.png"
+    }
+
+
+   
+
+      
+     
+
+  ]

@@ -1,0 +1,71 @@
+[
+    {
+      "title": "GrocerEase",
+      "imageSrc": "projects/grocerease.jpg",
+      "description": "An e-commerce website for grocery shopping, offering a common platform for both buyers and sellers.",
+      "skills": ["Django" ,"SQLite"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/GrocerEase.git"
+    },
+    {
+      "title": "Racing In IUT",
+      "imageSrc": "projects/car.jpg",
+      "description": "A skeleton of a single-player game where the player races against himself using a time tracker.",
+      "skills": [ "Java"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/RacingInIUT_SWE4502.git"
+    },
+    {
+      "title": "Cheems",
+      "imageSrc": "projects/cheems.jpg",
+      "description": "A server-based meme-sharing platform designed for creating, viewing, engaging with, and enjoying funny content.",
+      "skills": ["Express", "Node", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/Cheems_SWE4538.git"
+    },
+  
+
+    {
+      "title": "Bangla Movie Popularity Predictor",
+      "imageSrc": "projects/mlmovie.jpg",
+      "description": "A Machine Learning project to predict the IMDb average rating of Bangla movies.",
+      "skills": ["Jupyter Notebook", "Pandas", "Scikit-learn"],
+      "demo": "https://www.example.com",
+      "source": " https://github.com/shaisad/BanglaMoviePopularityPredictor.git"
+    },
+    {
+      "title": "Bon Voyage!",
+      "imageSrc": "projects/bonvoyage.png",
+      "description": "A website centered around Bangladesh that will assist people to plan a trip according to their preferences.",
+      "skills": ["Node", "Express", "MongoDB"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/Bon-Voyage.git "
+    },
+    {
+      "title": "Find-A-Doc",
+      "imageSrc": "projects/findadoc.jpg",
+      "description": "A PHP-based website designed to schedule patient appointments with doctors..",
+      "skills": ["PHP", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/Find-A-Doc.git "
+    },
+
+    {
+      "title": "RRF: Rate. Review. Find.",
+      "imageSrc": "projects/rrf.jpg",
+      "description": "A PHP-based website designed to schedule patient appointments with doctors.",
+      "skills": ["PHP", "MySQL"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/RRF-Rate-Review-Find.git "
+    },
+    {
+      "title": "Bug Severity Prediction",
+      "imageSrc": "projects/bug.jpg",
+      "description": "A deep-learning LSTM model implementation to predict bug severity.",
+      "skills": ["Jupyter Notebook", "Keras"],
+      "demo": "https://www.example.com",
+      "source": "https://github.com/shaisad/BugSeverityPrediction_NDAG.git"
+    }
+
+
+  ]
